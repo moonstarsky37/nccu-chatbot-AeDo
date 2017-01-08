@@ -7,3 +7,7 @@
 
   * install python (ver: 3.4+)
   * install library in the file: lib
+
+## Testing Vedio
+
+  * [![./logo.png](https://youtu.be/wfWkJxv-GT8 "Aっ豆")
