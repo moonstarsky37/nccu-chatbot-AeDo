@@ -1,0 +1,8 @@
+ requests
+ lxml
+ webbrowser
+ re
+ urllib
+ bs4
+ jieba
+ hanziconv 
