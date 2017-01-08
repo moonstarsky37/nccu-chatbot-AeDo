@@ -10,4 +10,4 @@
 
 ## Testing Vedio
 
-  * [![Aっ豆](./logo.png)](https://youtu.be/wfWkJxv-GT8 "Aっ豆")
+  * [![Aっ豆](./logo.png)](https://www.youtube.com/watch?v=wfWkJxv-GT8&feature=youtu.be "Aっ豆")
